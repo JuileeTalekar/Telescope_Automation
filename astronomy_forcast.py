@@ -11,7 +11,7 @@ from reportlab.pdfgen import canvas
 from datetime import timezone
 
 # ========== CONFIGURATION ============
-OPENWEATHERMAP_API_KEY = '6269b5a2c9b402d3312b7bc7bb5f2e18'  # replace with your key
+OPENWEATHERMAP_API_KEY =   # replace with your key
 WEATHER_LAT_PARAM = 'lat'
 WEATHER_LON_PARAM = 'lon'
 WEATHER_EXCLUDE = 'minutely,daily,alerts'
